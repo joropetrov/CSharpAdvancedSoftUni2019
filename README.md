@@ -1,4 +1,4 @@
-# CSharpAdvancedSoftUni2019
+# CSharp-Advanced-SoftUni=
 SoftUni course  C# Advanced 
 
  Greetings everyone,
