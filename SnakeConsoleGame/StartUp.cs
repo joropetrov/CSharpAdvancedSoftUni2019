@@ -1,4 +1,3 @@
-﻿
 namespace SnakeGame
 {
     using System;
